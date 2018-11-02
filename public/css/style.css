@@ -4,14 +4,26 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/water_kiss.jpg");
+    background-image: url("./images/heart.jpg");
     background-size: 930px 379px;
+    color: #fff;
 }
 
 .box {
     /*background-image: url("./images/pink_rice.png");*/
     padding: 10px;
     border: 2px solid gray;
-    background-color: rgba(247, 199, 207, 0.911);
+    background-color: #fce3e7a2;
 
+} 
+
+.btn-primary {
+    background-color: #fce3e7a2;
+   color: gray;
+
+}
+
+#submit {
+    background-color: #fce3e7a2;
+    color: gray;
 }
