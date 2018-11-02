@@ -1,5 +1,5 @@
 body {
-    background-image: url("./images/swirl_pattern.png")
+    background-image: url("./images/regal.png")
 
 }
 
@@ -9,5 +9,8 @@ body {
 }
 
 .box {
-    background-image: url("./images/pink_rice.png");
+    /*background-image: url("./images/pink_rice.png");*/
+    padding: 10px;
+    border: 2px solid gray;
+    color: rgba(245, 131, 150, 0.911);
 }
