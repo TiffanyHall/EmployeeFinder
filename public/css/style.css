@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/sunset.jpg");
+    background-image: url("./images/candle_sunset.jpg");
     background-size: 930px 379px;
     color: #fff;
     border: 2px solid gray;
@@ -14,21 +14,20 @@ body {
 .box {
     padding: 10px;
     border: 2px solid gray;
-    background-color: #f5ccd3f1;
+    background-image:url("./images/pink_rice.png");
     margin-bottom: 10px;
 
 } 
 
 .btn-primary {
-    background-color: #af5c6af1;
-   color: #fff;
-   border: 1px solid gray;
-
+    background-image:url("./images/pink_rice.png");
+    color: gray;
+    border: 1px solid gray;
 }
 
 #submit {
-    background-color: #af5c6af1;
-    color:#fff;
+    background-image:url("./images/pink_rice.png");
+    color: gray;
     border: 1px solid gray;
 }
 
@@ -42,7 +41,7 @@ h2 {
 
 h3 {
     font-family: 'Times New Roman', Times, serif;
-    color: #fff;
+    color: gray;
 }
 
 h4 {
