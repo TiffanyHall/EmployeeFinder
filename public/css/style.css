@@ -15,21 +15,22 @@ body {
 .box {
     padding: 10px;
     border: 2px solid gray;
-    background-color: #f3d3dcce;
+    background-color: #ebd4dbc7;
     margin-bottom: 10px;
 
 } 
 
 .btn-primary {
-    background-image:url("./images/pink_rice.png");
-    color: gray;
-    border: 1px solid gray;
-}
-
-#submit {
     background-color: #fc6780;
     color: #fff;
     border: 1px solid #fff;
+
+}
+
+#submit {
+    background-color: #ebd4dbc7;
+    color: gray;
+    border: 1px solid gray;
 }
 
 h1 {
@@ -47,6 +48,7 @@ h3 {
 
 h4 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
 }
 
 .modal-content {
