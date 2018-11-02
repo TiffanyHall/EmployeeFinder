@@ -4,17 +4,16 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/beach_sunset.jpg");
+    background-image: url("./images/orange.jpg");
     background-size: 930px 379px;
     color: #fff;
     border: 2px solid gray;
 }
 
 .box {
-    background-image: url("./images/pink_rice.png");
     padding: 10px;
     border: 2px solid gray;
-    /*background-color: #af5c6af1;*/
+    background-color: #af5c6af1;
     margin-bottom: 10px;
 
 } 
