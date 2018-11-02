@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/beach_sunset.jpg");
+    background-image: url("./images/sunset.jpg");
     background-size: 930px 379px;
     color: #fff;
     border: 2px solid gray;
@@ -14,7 +14,7 @@ body {
 .box {
     padding: 10px;
     border: 2px solid gray;
-    background-color: #facad8;
+    background-color: #dfb2bff5;
     margin-bottom: 10px;
 
 } 
