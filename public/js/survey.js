@@ -34,7 +34,7 @@ $(function () {
             $('match-img').empty();
             $('#match-name').append(`<h3>${data.name}</h3>`);
             $('#match-img').attr("src", data.photo);
-        });s
+        });
         $('#results-modal').modal('show')
     } else{
 
