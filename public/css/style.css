@@ -4,13 +4,14 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/candle_sunset.jpg");
-    background-size: auto;
+    background-image: url("./images/water_kiss.jpg");
+    background-size: 930px 379px;
 }
 
 .box {
     /*background-image: url("./images/pink_rice.png");*/
     padding: 10px;
     border: 2px solid gray;
-    color: rgba(245, 131, 150, 0.911);
+    background-color: rgba(247, 199, 207, 0.911);
+
 }
