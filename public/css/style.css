@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/candle_sunset.jpg");
+    background-image: url("./images/beach_sunset.jpg");
     background-size: 930px 379px;
     color: #fff;
     border: 2px solid gray;
@@ -14,7 +14,7 @@ body {
 .box {
     padding: 10px;
     border: 2px solid gray;
-    background-image:url("./images/pink_rice.png");
+    background-color: #facad8;
     margin-bottom: 10px;
 
 } 
@@ -41,7 +41,7 @@ h2 {
 
 h3 {
     font-family: 'Times New Roman', Times, serif;
-    color: gray;
+    color:#fff;
 }
 
 h4 {
