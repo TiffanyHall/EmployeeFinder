@@ -15,7 +15,7 @@ body {
 .box {
     padding: 10px;
     border: 2px solid gray;
-    background-color: #fc9eb84d;
+    background-color: #f3d3dcce;
     margin-bottom: 10px;
 
 } 
@@ -27,9 +27,9 @@ body {
 }
 
 #submit {
-    background-image:url("./images/pink_rice.png");
-    color: gray;
-    border: 1px solid gray;
+    background-color: #fc6780;
+    color: #fff;
+    border: 1px solid #fff;
 }
 
 h1 {
