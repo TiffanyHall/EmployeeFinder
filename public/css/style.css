@@ -4,17 +4,18 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/sunset.jpg");
+    background-image: url("./images/heart.jpg");
     background-size: 930px 379px;
     color: #fff;
     border: 2px solid gray;
     margin-top: 100px;
 }
 
+
 .box {
     padding: 10px;
     border: 2px solid gray;
-    background-color: #dfb2bff5;
+    background-color: #fc9eb84d;
     margin-bottom: 10px;
 
 } 
