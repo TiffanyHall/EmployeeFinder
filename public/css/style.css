@@ -14,17 +14,18 @@ body {
 
 .box {
     padding: 10px;
-    border: 2px solid gray;
-    background-color: #f8a7a7de;
+    border: 2px solid #525050;
+    background-color: #f8a7a7c9;
     margin-bottom: 10px;
 
 } 
 
 
 #submit {
-    background-color: #ebd4dac7;
+    background-color:#f8a7a7c9;
     color:  #525050;
     border: 1px solid gray;
+    
 }
 
 h1 {
@@ -42,7 +43,7 @@ h3 {
 
 h4 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #525050;
+    color: #000000;
 }
 
 .modal-content {
@@ -61,7 +62,7 @@ h4 {
     border: 2px solid gray;
 } 
 
-.btn {
+.btn-primary {
     background-color:#fff;
     color: #fc6780;
     border: 1px solid gray;
@@ -71,5 +72,5 @@ h4 {
     color: #fc6780;
 }
 #employeeList-survey {
-    color: #525050;
+    color:  #fc6780;
 }
