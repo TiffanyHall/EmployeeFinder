@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/birds.jpg");
+    background-image: url("./images/bikes.jpg");
     background-size: 930px 379px;
     color: #fff;
     border: 2px solid gray;
@@ -14,35 +14,52 @@ body {
     /*background-image: url("./images/pink_rice.png");*/
     padding: 10px;
     border: 2px solid gray;
-    background-color: #fce3e7a2;
+    background-color: #af5c6af1;
+    margin-bottom: 10px;
 
 } 
 
 .btn-primary {
-    background-color: #fce3e7a2;
+    background-color: #af5c6af1;
    color: gray;
    border: 1px solid gray;
 
 }
 
 #submit {
-    background-color: #fce3e7a2;
+    background-color: #af5c6af1;
     color: gray;
     border: 1px solid gray;
 }
 
 h1 {
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h3 {
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h4 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.modal-content {
+    background-image: url("./images/regal.png")
+}
+
+.modal-title {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#match-name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#match-img {
+    border: 2px solid gray;
+} 
