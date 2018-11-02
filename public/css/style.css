@@ -15,7 +15,7 @@ body {
 .box {
     padding: 10px;
     border: 2px solid gray;
-    background-color: #ebd4dac7;
+    background-color: #f8a7a7de;
     margin-bottom: 10px;
 
 } 
@@ -61,7 +61,7 @@ h4 {
     border: 2px solid gray;
 } 
 
-.btn-primary {
+.btn {
     background-color:#fff;
     color: #fc6780;
     border: 1px solid gray;
