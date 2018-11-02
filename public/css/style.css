@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/orange.jpg");
+    background-image: url("./images/sunset.jpg");
     background-size: 930px 379px;
     color: #fff;
     border: 2px solid gray;
@@ -13,15 +13,15 @@ body {
 .box {
     padding: 10px;
     border: 2px solid gray;
-    background-color: #af5c6af1;
+    background-color: #f1287c96;
     margin-bottom: 10px;
 
 } 
 
 .btn-primary {
     background-color: #af5c6af1;
-   color: gray;
-   border: 1px solid #fff;
+   color: #fff;
+   border: 1px solid gray;
 
 }
 
