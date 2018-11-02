@@ -1,9 +1,76 @@
-.container {
-    background-image: url("./images/birds.jpg")
+body {
+    background-image: url("./images/regal.png")
 
 }
 
 .jumbotron {
-    background-image: url("./images/birds.jpg/")
+    background-image: url("./images/heart.jpg");
+    background-size: 930px 379px;
+    color: #fff;
+    border: 4px solid #fc6780;
+    margin-top: 100px;
 }
 
+
+.box {
+    padding: 10px;
+    border: 2px solid #525050;
+    background-color: #f8a7a7c9;
+    margin-bottom: 10px;
+
+} 
+
+
+#submit {
+    background-color:#f8a7a7c9;
+    color:  #525050;
+    border: 1px solid gray;
+    
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color:#fff;
+}
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000000;
+}
+
+.modal-content {
+    background-image: url("./images/regal.png")
+}
+
+.modal-title {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#match-name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#match-img {
+    border: 2px solid gray;
+} 
+
+.btn-primary {
+    background-color:#fff;
+    color: #fc6780;
+    border: 1px solid gray;
+}
+
+#employeeList {
+    color: #fc6780;
+}
+#employeeList-survey {
+    color:  #fc6780;
+}
