@@ -4,17 +4,17 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/bikes.jpg");
+    background-image: url("./images/beach_sunset.jpg");
     background-size: 930px 379px;
     color: #fff;
     border: 2px solid gray;
 }
 
 .box {
-    /*background-image: url("./images/pink_rice.png");*/
+    background-image: url("./images/pink_rice.png");
     padding: 10px;
     border: 2px solid gray;
-    background-color: #af5c6af1;
+    /*background-color: #af5c6af1;*/
     margin-bottom: 10px;
 
 } 
@@ -22,13 +22,13 @@ body {
 .btn-primary {
     background-color: #af5c6af1;
    color: gray;
-   border: 1px solid gray;
+   border: 1px solid #fff;
 
 }
 
 #submit {
     background-color: #af5c6af1;
-    color: gray;
+    color:#fff;
     border: 1px solid gray;
 }
 
@@ -42,6 +42,7 @@ h2 {
 
 h3 {
     font-family: 'Times New Roman', Times, serif;
+    color: #fff;
 }
 
 h4 {
