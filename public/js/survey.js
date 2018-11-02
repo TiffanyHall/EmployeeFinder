@@ -32,9 +32,9 @@ $(function () {
         $.post("/api/employees", newEmployee).done(function (data) {
             $('#match-name').empty();
             $('match-img').empty();
-            $('#match-name').append(`<h3>${data.name}</h3>`);
+            $('#match-name').append(`<h4>${data.name}</h4>`);
             $('#match-img').attr("src", data.photo);
-        });
+        })
         $('#results-modal').modal('show')
     } else{
 
