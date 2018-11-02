@@ -1,9 +1,10 @@
 body {
-    background-image: url("./images/regal.png")
+    background-image: url("./images/full-bloom.png")
 
 }
 
 .jumbotron {
-    background-image: url("./images/flowers.jpg")
+    background-image: url("./images/flowers.jpg");
+    background-size: 930px 379px;
 }
 
