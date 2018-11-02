@@ -1,5 +1,8 @@
 $(function(){
 
+
+    Validate
+
 $('#submit').click(function () {
     const newEmployee = {
         name: $('#name').val().trim(),
