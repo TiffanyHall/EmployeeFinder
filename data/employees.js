@@ -2,38 +2,38 @@
 const employees = [
 
     {
-        name: "Ahmed",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        name: "Kim Kardashian",
+        photo: "https://assets.vogue.com/photos/5afc8d0aace7a265e1464e94/master/w_1140,c_limit/kim-kardashian-west-met-gala-2018.jpg",
         scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
     },
 
     {
-        name: "Jacob Deming",
-        photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        name: "Jessica Rabbit",
+        photo: "https://vignette.wikia.nocookie.net/disney/images/8/8c/JessicaRabbit.png/revision/latest?cb=20130321191735&path-prefix=es",
         scores: [4, 2, 5, 1, 3, 2, 2, 1, 3, 2]
     },
 
     {
-        name: "Jeremiah Scanlon",
-        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        name: "David Beckham",
+        photo: "http://static1.puretrend.com/articles/0/11/55/20/@/1332030-david-beckham-a-d-eacute-voil-eacute-580x0-2.jpg",
         scores: [5, 2, 2, 2, 4, 1, 3, 2, 5, 5]
     },
 
     {
-        name: "Louis T. Delia",
-        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+        name: "Trevor Noah",
+        photo: "https://turntable.kagiso.io/images/Screen_Shot_2018-09-21_at_1.10.44_PM.width-800.png",
         scores: [3, 3, 4, 2, 2, 1, 3, 2, 2, 3]
     },
 
     {
-        name: "Lou Ritter",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        name: "Michael B. Jordan",
+        photo: "https://m.media-amazon.com/images/M/MV5BMjExOTY3NzExM15BMl5BanBnXkFtZTgwOTg1OTAzMTE@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
         scores: [4, 3, 4, 1, 5, 2, 5, 3, 1, 4]
     },
 
     {
-        "name": "Jordan Biason",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+        "name": "Zendaya",
+        photo: "http://static1.get-the-look.ca/articles/9/58/39/@/15104-zendaya-attends-the-12th-annual-893x0-2.jpg",
         scores: [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
     },
 
@@ -44,8 +44,8 @@ const employees = [
     },
 
     {
-        name: "jessica mccormack",
-        photo: "www.linkedin.com",
+        name: "Homer Simpson",
+        photo: "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
         scores: [5, 3, 4, 5, 4, 1, 4, 2, 4, 1]
     }
 ]
