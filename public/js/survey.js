@@ -20,7 +20,7 @@ $(function () {
     }
 
     $('#submit').click(function (e) {
-        e.preventdefault();
+        e.preventDefault();
         if (validateForm()){
 
         const newEmployee = {
