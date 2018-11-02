@@ -65,5 +65,11 @@ h4 {
     background-color:#fff;
     color: #fc6780;
     border: 1px solid gray;
+}
 
+#employeeList {
+    color: #fc6780;
+}
+#employeeList-survey {
+    color: #525050;
 }
