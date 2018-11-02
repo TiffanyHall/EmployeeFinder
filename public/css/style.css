@@ -4,9 +4,10 @@ body {
 }
 
 .jumbotron {
-    background-image: url("./images/heart.jpg");
+    background-image: url("./images/birds.jpg");
     background-size: 930px 379px;
     color: #fff;
+    border: 2px solid gray;
 }
 
 .box {
@@ -20,10 +21,28 @@ body {
 .btn-primary {
     background-color: #fce3e7a2;
    color: gray;
+   border: 1px solid gray;
 
 }
 
 #submit {
     background-color: #fce3e7a2;
     color: gray;
+    border: 1px solid gray;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h3 {
+    font-family: cursive;
+}
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
